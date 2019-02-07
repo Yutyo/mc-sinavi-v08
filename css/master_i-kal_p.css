@@ -1,0 +1,38 @@
+#u10833,#u10835,#u10837
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u10839-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u10840
+{
+	position: relative;
+	background: transparent url("../images/minecraft%20s%c4%b1nav%c4%b1%20yeniden%20dene%20buton-u7522-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u10840:hover
+{
+	background: transparent url("../images/minecraft%20s%c4%b1nav%c4%b1%20yeniden%20dene%20buton-u7522-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u10840:active
+{
+	background: transparent url("../images/minecraft%20s%c4%b1nav%c4%b1%20yeniden%20dene%20buton-u7522-m-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u10840.MuseLinkActive
+{
+	background: transparent url("../images/minecraft%20s%c4%b1nav%c4%b1%20yeniden%20dene%20buton-u7522-m-fr.png") no-repeat left top;
+	background-size: contain;
+}
+

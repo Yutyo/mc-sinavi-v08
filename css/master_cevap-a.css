@@ -1,0 +1,39 @@
+#u7780
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7855
+{
+	position: relative;
+	background: transparent url("../images/minecraft%20s%c4%b1nav%c4%b1%20ok%20buton-u7855-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7855:hover
+{
+	background: transparent url("../images/minecraft%20s%c4%b1nav%c4%b1%20ok%20buton-u7855-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7855:active
+{
+	background: transparent url("../images/minecraft%20s%c4%b1nav%c4%b1%20ok%20buton-u7855-m-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7855.MuseLinkActive
+{
+	background: transparent url("../images/minecraft%20s%c4%b1nav%c4%b1%20ok%20buton-u7855-m-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7369,#u7321,#u7832,#u8548
+{
+	background-color: transparent;
+	position: relative;
+}
+
